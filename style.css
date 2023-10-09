@@ -1,0 +1,242 @@
+body {
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    border: 2px solid white;
+    border-bottom: none;
+}
+
+.sectionA {
+    height: 850px;
+    width: 100%;
+}
+
+.sectionB {
+    height: 550px;
+    width: 100%;
+    position: relative;
+    margin-top: -150px;
+    background-color: white;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 30px;
+}
+
+.navbar {
+    border-radius: 15px;
+}
+
+.back {
+    box-sizing: content-box;
+    margin-top: 80px;
+    margin-left: 130px;
+    width: 80%;
+    height: 85vh;
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: 5px 5px lightblue;
+}
+
+.card {
+    width: 13rem;
+}
+
+.cardcss {
+    width: 13rem;
+}
+
+.color {
+    width: 250px;
+    height: 250px;
+    background-color: rgb(100, 149, 237);
+    float: right;
+    margin-top: 40px;
+    margin-right: 180px;
+    border-radius: 50%;
+}
+
+.image img {
+    float: right;
+    margin-right: 1.5px;
+    padding-left: 30px;
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+}
+
+.data {
+    box-sizing: content-box;
+    width: 535px;
+    height: 130px;
+    position: relative;
+    margin-top: 75px;
+    padding-top: 25px;
+    padding-left: 60px;
+    margin-left: 75px;
+}
+
+#typedcolor {
+    color: rgb(91, 91, 159);
+}
+
+.btn {
+    position: absolute;
+    margin-top: 40px;
+    margin-left: 30px;
+}
+
+.btn-1 {
+    transition: .3s all;
+}
+
+.btn:hover {
+    transform: scale(1.5);
+}
+
+.links {
+    position: relative;
+    margin-top: 150px;
+    margin-left: 350px;
+    font-size: x-large;
+
+}
+
+#lin {
+    text-decoration: none;
+    position: relative;
+}
+
+#ins {
+    text-decoration: none;
+    position: relative;
+    margin-left: 35px;
+}
+
+#face {
+    text-decoration: none;
+    position: relative;
+    margin-left: 35px;
+}
+
+#git {
+    text-decoration: none;
+    position: relative;
+    margin-left: 35px;
+}
+
+.fa-avilash {
+    padding-right: 10px;
+    font-size: x-large;
+}
+
+.fa-square-instagram {
+    color: deeppink;
+}
+
+.fa-facebook {
+    color: dodgerblue
+}
+
+.fa-solid {
+    font-size: x-large;
+}
+
+.fa-github {
+    color: black;
+    font-size: larger;
+}
+
+.card {
+    margin-left: 25px;
+    margin-top: 15px;
+}
+
+
+.edu {
+    margin-top: -40px;
+    margin-left: 350px;
+    padding-bottom: 200px;
+    font-size: x-large;
+    color: white;
+}
+
+.certificate {
+    width: 79rem;
+    height: 4px;
+    margin-left: 80px;
+    background-color: black;
+}
+
+.firstc {
+    width: 4px;
+    height: 150px;
+    background-color: black;
+    margin-left: 83px;
+}
+
+.secondc {
+    width: 4px;
+    height: 150px;
+    background-color: black;
+    margin-left: 300px;
+}
+
+.thirdc {
+    width: 4px;
+    height: 150px;
+    background-color: black;
+    margin-left: 300px;
+}
+
+.fourc {
+    width: 4px;
+    height: 150px;
+    background-color: black;
+    margin-left: 300px;
+}
+
+.fivec {
+    width: 4px;
+    height: 150px;
+    background-color: black;
+    margin-left: 265px;
+}
+
+.certificate {
+    font-size: 100px;
+}
+
+.fa-html5 {
+    color: orange;
+}
+
+.fa-css3-alt {
+    color: rgb(61, 61, 212);
+}
+
+.fa-square-js {
+    text-align: center;
+    color: rgb(187, 187, 52);
+}
+
+.fa-node {
+    color: green;
+}
+
+.fa-leaf {
+    margin-top: 150px;
+    font-size: 90px;
+    color: lightgreen;
+}
+
+.downinfo {
+    margin-top: 200px;
+}
+
+.card-img-top-css {
+    width: 300px;
+}
+
+.card-img-top-js {
+   width: 250px;
+}
